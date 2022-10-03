@@ -1,15 +1,6 @@
 # Project Quản Lý Kho Siêu Thị
 
 
-Nhóm đồ án lớp Hệ Thống Thông Tin khóa 2015, sinh viên trường Đại học Công nghệ Thông tin- Đại học Quốc gia TP.HCM.
-
-## Member introduction
-
-* [Trần Thị Xoan](https://www.facebook.com/jughion) - MSSV:15521038
-* [Lê Đình Tiến](https://www.facebook.com/kynangnghenghiep2016) - MSSV:15520880
-* [Nguyễn Thị Cẩm Tiên](https://www.facebook.com/camtien.nguyen.94009) - MSSV:15520873
-* [Phạm Thành Nghĩa](https://www.facebook.com/nghia.phamthanh.169) - MSSV:15520545
-* [Nguyễn Văn Vinh](https://www.facebook.com/profile.php?id=100013462964646) - MSSV:15521018
 
 ### Prerequisites
 
